@@ -1,4 +1,4 @@
-# Optimize TensorFlow Models For Deployment with TensorRT
+# Optimize Tensorflow Models For Deployment with TensorRT
 
 ## Project Objective
 
